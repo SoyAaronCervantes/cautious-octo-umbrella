@@ -1,0 +1,29 @@
+.container  {
+  --padding-container: 1rem;
+
+  /* toDo add Flex/Grid system */
+  padding: var(--padding-container);
+
+  border-radius: 2em;
+  gap: 2em;
+
+}
+
+@media screen and ( min-width: 375px ) {
+  .container {
+    /* toDo add Flex/Grid system */
+  }
+}
+
+@media screen and ( min-width: 768px ) {
+  .container {
+    --padding-container: 4rem;
+    /* toDo add Flex/Grid system */
+  }
+}
+
+@media screen and ( min-width: 990px ) {
+  .container {
+    /* toDo add Flex/Grid system */
+  }
+}

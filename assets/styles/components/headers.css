@@ -1,0 +1,5 @@
+h2,
+.card__opinion,
+.person__name {
+  font-weight: var(--bold--font);
+}

@@ -1,0 +1,14 @@
+/** Global config */
+@import "assets/styles/global/colors.css";
+@import "assets/styles/global/typography.css";
+@import "assets/styles/global/devices.css";
+
+@import "assets/styles/global/global.css";
+
+/** Layout */
+@import "assets/styles/layout/grid.css";
+
+
+/** Components */
+@import "assets/styles/components/headers.css";
+@import "assets/styles/components/card.css";

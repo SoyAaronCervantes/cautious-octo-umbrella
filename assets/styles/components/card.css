@@ -1,0 +1,38 @@
+.card {
+  /* toDo add Flex/Grid system */
+  padding: 2em;
+}
+
+#daniel {
+  background-color: var(--moderate-violet );
+  color: var(--white);
+}
+
+#jonathan {
+
+  background-color: var(--very-dark-blackish-blue);
+  color: var(--white);
+}
+
+#kira {
+
+  background-color: var(--white);
+  color: var(--very-dark-grayish-blue);
+}
+
+#jeanette {
+
+  background-color: var(--white);
+  color: var(--very-dark-grayish-blue);
+}
+
+#patrick {
+  background-color: var(--very-dark-blackish-blue);
+  color: var(--white);
+}
+
+#kathie {
+
+  background-color: var( --moderate-violet );
+  color: var( --white );
+}
